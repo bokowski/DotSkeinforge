@@ -1,5 +1,5 @@
 ;(end of the file, cooldown routines)
-M104 S175 T0 (keep temp at 190 C)
+M104 S185 T0 (keep temp at 190 C)
 ;M106 (fan on)
 G91 (Relative Positioning)
 G1 X0 Y0 Z5 F60

@@ -1,6 +1,6 @@
 ;(***************FIRST SET Z TO 0, 0, 0*********************)
 ;(beginning of start.)
-M104 S175 T0 (Temperature to 190 celsius)
+M104 S185 T0 (Temperature to 190 celsius)
 ;M107 (fan off)
 G21 (Metric FTW)
 G90 (Absolute Positioning)
