@@ -1,7 +1,7 @@
 Format is tab separated skeinforge settings.
 Name                          	Value
 WindowPosition	234+22
-Open File for Skeinforge	/Users/abuser/things/reuleaux_assy.stl
+Open File for Skeinforge	/Users/bokowski/dev/3d/Schnuti.stl
 analyze	False
 craft	True
 help	False
