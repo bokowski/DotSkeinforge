@@ -1,4 +1,4 @@
 Format is tab separated extrusion settings.
 Name                          	Value
 WindowPosition	0+400
-Profile Selection:	mendel_pla
+Profile Selection:	mendel_pla_layer0.3_feed40
